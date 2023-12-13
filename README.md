@@ -43,7 +43,7 @@ The Degree of Ripeness has been classified with 5 different levels from 0 to 4 a
 * 0: Unripe
 * 1: to 50% ripe
 * 2: to 90% ripe
-* 3: Ripe
+* 3: Fully Ripe
 * 4: Rotten
   
 ## Contacts
