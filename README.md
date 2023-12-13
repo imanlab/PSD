@@ -1,8 +1,9 @@
 # Picking Scheduling Dataset
 
 ## Table of Contents
-* About the Project
-* Usage
+
+* [About the Project]
+  
 * Contact
 
 ## About the Project
@@ -12,7 +13,7 @@ This repository contains the dataset and the annotations that have been used for
 
 The dataset is divided in two folders, **data_collection** and **riseholme**.  
 
-In each of this folder the pictures are divided in **train**, **test** and **val** containg respectively 70%, 20% and 10% of the dataset. 
+In each of these folder the pictures are divided in **train**, **test** and **val** containg respectively 70%, 20% and 10% of the dataset. 
 
 ### Annotations
 The annotations are contained in the **segmentations_v2** folder, which is present in both **data_collection** and **riseholme** folder. 
