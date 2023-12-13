@@ -4,9 +4,9 @@
 
 * [About the Project](https://github.com/imanlab/PSD/blob/main/README.md#about-the-project)
 * [Contents](https://github.com/imanlab/PSD/blob/main/README.md#contents)
-    *[Annotations](https://github.com/imanlab/PSD/blob/main/README.md#Annotations)
-      *[Hardness of Picking](https://github.com/imanlab/PSD/blob/main/README.md#Hardness-of-picking)
-      *[Degree of Ripeness](https://github.com/imanlab/PSD/blob/main/README.md#degree-of-ripeness)
+           *[Annotations](https://github.com/imanlab/PSD/blob/main/README.md#Annotations)
+                *[Hardness of Picking](https://github.com/imanlab/PSD/blob/main/README.md#Hardness-of-picking)
+                *[Degree of Ripeness](https://github.com/imanlab/PSD/blob/main/README.md#degree-of-ripeness)
 * [Contacts](https://github.com/imanlab/PSD/blob/main/README.md#contacts)
   
    
@@ -14,7 +14,7 @@
 
 
 ## About the Project
-This repository contains the dataset and the annotations that have been used for the straberry picking scheduling.
+This repository contains the dataset and the annotations that have been used for the strawberry picking scheduling.
 
 ## Contents
 
