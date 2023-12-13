@@ -2,7 +2,14 @@
 
 ## Table of Contents
 
-* [About the Project](## About the Project)
+* [About the Project]
+* [Contents]
+ *[Annotations]
+   *[Hardness of Picking]
+   *[Degree of Ripeness]
+* [Contacts]
+  
+   
   
 * Contact
 
@@ -39,8 +46,8 @@ The Degree of Ripeness has been classified with 5 different levels from 0 to 4 a
 * 3: Ripe
 * 4: Rotten
   
-## Contact
+## Contacts
 
-[clara.bresciani@mail.polimi.it]
+clara.bresciani@mail.polimi.it
 
 
